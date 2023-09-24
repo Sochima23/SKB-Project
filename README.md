@@ -3,7 +3,7 @@
 ## Introduction
 This is an analysis of the consumer complaints of financial institutions received between 2013 and 2015 by the Consumer Financial Protection Bureau (CFPB)
 ## Data Source
-The data was retrieved from a Government's agency database called ComplaintsDB.sql
+The data was retrieved from a Government's agency database called [ComplaintsDB.sql](https://github.com/Sochima23/SKB-Project/blob/main/ComplaintsDB.sql)
 ## Problem Statement
 1. Find out how many complaints were received and sent by CFPB on the same day. (Hint: 
 where Date received = Date Sent)
